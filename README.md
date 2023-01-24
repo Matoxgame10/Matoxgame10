@@ -1,7 +1,17 @@
-### Hi there 👋
+# Hi everyone to visit my github, welcome to this experience👋
 
-<!--
-**Matoxgame10/Matoxgame10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌍 Find me around the web 
+* Talking with me and follow me in [twitter](https://mobile.twitter.com/mateojosparede2).
+
+I am a student at the Technical University of Ambato, where I am in the fourth semester of the software career. I really like developing with java, it is my favorite programming language. I have experience in teamwork with github, I have done it with my colleagues.
+  🌱  Now, I'm learnig about js and php.
+  🤔 I like to work in group
+  
+# 🛠️ My projects
+*[El ahorcado](https://github.com/Grupo6sw/ProyectoMyC).
+
+It's a little proyect about the famous game called "El ahorcado", where you havo to complete the word that your collegue put, if you lus, the player died.
+
 
 Here are some ideas to get you started:
 
