@@ -25,3 +25,4 @@ It's a little proyect about the famous game called "El ahorcado", where you havo
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matoxgame10)](https://github.com/anuraghazra/github-readme-stats)
