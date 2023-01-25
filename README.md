@@ -28,5 +28,5 @@ It's a little proyect about the famous game called "El ahorcado", where you havo
 
 
 
-
+# 📈 Some of my stats are:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matoxgame10)](https://github.com/anuraghazra/github-readme-stats)
