@@ -8,7 +8,7 @@ I am a student at the Technical University of Ambato, where I am in the fourth s
   - 🤔 I like to work in group.
   
 # 🛠️ My projects
-*[El ahorcado](https://github.com/Grupo6sw/ProyectoMyC).
+* [El ahorcado](https://github.com/Grupo6sw/ProyectoMyC).
 
 It's a little proyect about the famous game called "El ahorcado", where you havo to complete the word that your collegue put, if you lus, the player died.
 
@@ -25,4 +25,8 @@ It's a little proyect about the famous game called "El ahorcado", where you havo
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matoxgame10)](https://github.com/anuraghazra/github-readme-stats)
